@@ -92,11 +92,11 @@ Managing a Minecraft server usually means:
 
 | Dashboard | Plugins & Mods | ExeLAN |
 |-----------|----------------|--------|
-| ![Dashboard](docs/images/dashboard.png) | ![Plugins](docs/images/plugins-full.png) | ![ExeLAN](docs/images/exelan-full.png) |
+| ![Dashboard](docs/coverimages/dashboard.png) | ![Plugins And Mods](docs/coverimages/pluginsandmods.png) | ![ExeLAN](docs/coverimages/exelan.png) |
 
-| Console | Settings | Store / Account |
-|---------|----------|-----------------|
-| ![Console](docs/images/console-full.png) | ![Settings](docs/images/settings.png) | ![Store](docs/images/store.png) |
+| Console | File Manager | Server Settings |
+|---------|--------------|-----------------|
+| ![Console](docs/coverimages/console.png) | ![File Manager](docs/coverimages/filemanager.png) | ![Server Settings](docs/coverimages/serversettings.png) |
 
 > Tip: put real PNGs in `docs/images/` and keep these paths, or update the links.
 
