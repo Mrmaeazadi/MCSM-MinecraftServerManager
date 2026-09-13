@@ -18,8 +18,8 @@
 </p>
 
 <p align="center">
-  <img src="docs/coverimages/console.png" alt="Console" width="250"/>
-  <img src="docs/coverimages/filemanager.png" alt="File Manager" width="250"/>
+  <img src="docs/coverimages/console.png" alt="Console" width="300"/>
+  <img src="docs/coverimages/filemanager.png" alt="File Manager" width="300"/>
 </p>
 
 <p align="center">
@@ -27,8 +27,8 @@
 </p>
 
 <p align="center">
-  <img src="docs/coverimages/serversettings.png" alt="Server Settings" width="250"/>
-  <img src="docs/coverimages/pluginsandmods.png" alt="Plugins & Mods" width="250"/>
+  <img src="docs/coverimages/serversettings.png" alt="Server Settings" width="300"/>
+  <img src="docs/coverimages/pluginsandmods.png" alt="Plugins & Mods" width="300"/>
 </p>
 
 <p align="center">
