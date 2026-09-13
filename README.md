@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/images/serversettings.png" alt="Server Settings" width="280"/>
+  <img src="docs/coverimages/serversettings.png" alt="Server Settings" width="280"/>
   <img src="docs/images/plugins.png" alt="Plugins & Mods" width="280"/>
   <img src="docs/images/exelan.png" alt="ExeLAN" width="280"/>
 </p>
