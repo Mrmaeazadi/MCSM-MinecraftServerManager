@@ -14,13 +14,19 @@
 
 <!-- Replace with your real screenshots -->
 <p align="center">
-  <img src="docs/images/hero.png" alt="Minecraft Server Manager — Dashboard" width="900"/>
+  <img src="docs/images/dashboard.png" alt="Minecraft Server Manager — Dashboard" width="900"/>
 </p>
 
 <p align="center">
+  <img src="docs/images/console.png" alt="Console" width="280"/>
+  <img src="docs/images/filemanager.png" alt="File Manager" width="280"/>
+  <img src="docs/images/onlineplayers.png" alt="Online Players" width="280"/>
+</p>
+
+<p aligh="center">
+  <img src="docs/images/serversettings.png" alt="Server Settings" width="280"/>
   <img src="docs/images/plugins.png" alt="Plugins & Mods" width="280"/>
   <img src="docs/images/exelan.png" alt="ExeLAN" width="280"/>
-  <img src="docs/images/console.png" alt="Console" width="280"/>
 </p>
 
 ---
