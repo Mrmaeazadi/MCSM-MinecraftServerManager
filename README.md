@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/coverimages/onlineplayers.png" alt="Online Players" width="280"/>
+  <img src="docs/coverimages/onlineplayers.png" alt="Online Players" width="900"/>
 </p>
 
 <p align="center">
