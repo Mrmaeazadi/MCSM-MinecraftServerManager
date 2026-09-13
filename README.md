@@ -27,9 +27,12 @@
 </p>
 
 <p align="center">
-  <img src="docs/coverimages/serversettings.png" alt="Server Settings" width="280"/>
-  <img src="docs/coverimages/pluginsandmods.png" alt="Plugins & Mods" width="280"/>
-  <img src="docs/coverimages/exelan.png" alt="ExeLAN" width="280"/>
+  <img src="docs/coverimages/serversettings.png" alt="Server Settings" width="448"/>
+  <img src="docs/coverimages/pluginsandmods.png" alt="Plugins & Mods" width="448"/>
+</p>
+
+<p align="center">
+  <img src="docs/coverimages/exelan.png" alt="ExeLAN" width="900"/>
 </p>
 
 ---
