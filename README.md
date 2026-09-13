@@ -2,7 +2,7 @@
 
 **One app to run, manage, and share your Minecraft servers — without the chaos.**
 
-[![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](../../releases/latest)
+[![Windows](https://img.shields.io/badge/Windows-7%20%7C%208.1%20%7C%2010%20%7C%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](../../releases/latest)
 [![.NET](https://img.shields.io/badge/.NET-Desktop-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)
 [![License](https://img.shields.io/badge/License-See%20repo-green?style=for-the-badge)](#)
 [![Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge)](../../releases/latest)
