@@ -18,8 +18,8 @@
 </p>
 
 <p align="center">
-  <img src="docs/coverimages/console.png" alt="Console" width="448"/>
-  <img src="docs/coverimages/filemanager.png" alt="File Manager" width="448"/>
+  <img src="docs/coverimages/console.png" alt="Console" width="438"/>
+  <img src="docs/coverimages/filemanager.png" alt="File Manager" width="438"/>
 </p>
 
 <p align="center">
