@@ -98,8 +98,6 @@ Managing a Minecraft server usually means:
 |-----------|----------------|-----------------|
 | ![Console](docs/coverimages/console.png) | ![File Manager](docs/coverimages/filemanager.png) | ![Server Settings](docs/coverimages/serversettings.png) |
 
-> Tip: put real PNGs in `docs/images/` and keep these paths, or update the links.
-
 ---
 
 ## Quick start
@@ -111,8 +109,8 @@ Managing a Minecraft server usually means:
 
 ### Install
 1. Go to **[Releases](../../releases/latest)**
-2. Download the latest installer (or portable zip, if you publish one)
-3. Run the installer / extract and open the app
+2. Download the latest installer
+3. Run the installer and open the app
 4. Create or select a server
 5. Hit **Start** and you’re in
 
@@ -148,7 +146,7 @@ ExeLAN is the part of the ecosystem that helps turn your local game/server into 
 
 ## Safety & honesty
 
-- Download **only** from this GitHub Releases page (or your official site)
+- Download **only** from this GitHub Releases page
 - Windows SmartScreen may warn on new publishers — that’s normal for independent software until reputation builds
 - We don’t need your Minecraft password
 - Keep your server backups. Any powerful tool can delete files if you ask it to
@@ -194,7 +192,7 @@ Use plugins/mods in line with their licenses and your local laws.
 
 - **Latest download:** [Releases](../../releases/latest)  
 - **Issues:** [Issues](../../issues)  
-- **Website / updates (if applicable):** `https://mcexe.ir` (adjust to your real URL)
+- **Website / updates:** `https://mcexe.ir`
 
 ---
 
@@ -207,8 +205,7 @@ Use plugins/mods in line with their licenses and your local laws.
 
 # نسخه فارسی
 
-## Minecraft Server Manager چیست؟
-
+## ؟ﺖﺴﯿﭼ reganaM revreS tfarceniM
 یک اپلیکیشن ویندوزی برای **ساخت، مدیریت و اشتراک‌گذاری سرور ماینکرفت** — بدون سردرگمی بین پوشه‌ها، JARها و تنظیمات پراکنده.
 
 اگر تا امروز برای یک پلاگین ساده بین چند سایت می‌چرخیدی، یا برای دعوت دوست‌ها به پورت‌فوروارد و تونل‌های مبهم می‌رسیدی، این ابزار همان چیزی است که باید وسط میز کار باشد.
